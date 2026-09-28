@@ -1,2 +1,2 @@
-# megamanx6
-Article about Mega Man X6
+今後使っていくかは未定ですが、とりあえず作成。<br>
+ロックマンX6についてのリポジトリ。
